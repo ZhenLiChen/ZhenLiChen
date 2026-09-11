@@ -1,5 +1,7 @@
 # Zhen Li Chen
 
+<img src="./assets/profile-mark.svg" width="156" height="12" alt="">
+
 I study how language changes, and build small, useful systems for language technology.
 
 My work sits somewhere between phonetics, speech AI, product thinking, and the web. I am particularly interested in making voice systems more natural, reliable, and human to use.
