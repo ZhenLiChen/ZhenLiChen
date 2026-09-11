@@ -1,6 +1,6 @@
 # Zhen Li Chen
 
-<img src="./assets/profile-mark.svg" width="156" height="12" alt="">
+<img src="./assets/profile-mark.svg" width="432" height="34" alt="linguistics × speech AI × product">
 
 I study how language changes, and build small, useful systems for language technology.
 
